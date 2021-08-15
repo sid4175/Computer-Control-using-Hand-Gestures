@@ -1,2 +1,2 @@
 # Computer-Control-using-Hand-Gestures
-http://www.irjcs.com/volumes/Vol6/iss06/31.SI.JNCS10110.pdf
+https://www.academia.edu/39732678/COMPUTER_CONTROL_WITH_HAND_GESTURES_USING_COMPUTER_VISION
